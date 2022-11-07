@@ -1,46 +1,26 @@
 body{
-  background-color: powderblue;
-  }
-h1{
-  color: maroon;
-  text-align: center;
-  font-family: "Lucida Handwriting";
-  font-size: 50px;
-
+  background-color:lightgrey;
+  
 }
 p{
+  font-size: 25px;
+   text-align: center;
+}
+h1{
+  font-family: Verdana;
+  font-size: 50px;
+  color:rgb(80, 90, 50);
   text-align: center;
-  font-size: 30px
- 
+}
+a{
+  font-family: Helvetica;
+  font-size: 30px;
+  color:rgb(110,10,10);
 }
 h2{
-  text-align: center;
-  font-family: "Papyrus";
-  font-size: 25px;
-}
-  a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+   text-align: center;
 }
 
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: blue;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
 img {
   display: block;
   margin-left: auto;
