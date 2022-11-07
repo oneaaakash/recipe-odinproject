@@ -1,0 +1,49 @@
+body{
+  background-color: powderblue;
+  }
+h1{
+  color: maroon;
+  text-align: center;
+  font-family: "Lucida Handwriting";
+  font-size: 50px;
+
+}
+p{
+  text-align: center;
+  font-size: 30px
+ 
+}
+h2{
+  text-align: center;
+  font-family: "Papyrus";
+  font-size: 25px;
+}
+  a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
